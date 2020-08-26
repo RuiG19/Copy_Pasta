@@ -1,0 +1,1 @@
+start scripts\\Copy_Pasta.pyw
